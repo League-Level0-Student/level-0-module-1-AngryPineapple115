@@ -63,7 +63,7 @@ String answer1 = JOptionPane.showInputDialog(null, "What is greater than God, "
 		}
 		
 		String answer3 = JOptionPane.showInputDialog(null, "Paul's height is six feet, "
-				+ "he's an assistant ata butcher's shop, "
+				+ "he's an assistant at a butcher's shop, "
 				+ "and wears size 9 shoes. "
 				+ "What does he weigh?");
 		
